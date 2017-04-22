@@ -1,4 +1,7 @@
-# test coverage for  [dploy (v1.2.0)](https://github.com/LeanMeanFightingMachine/dploy)  [![npm package](https://img.shields.io/npm/v/npmtest-dploy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dploy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dploy.svg)](https://travis-ci.org/npmtest/node-npmtest-dploy)
+# npmtest-dploy
+
+#### basic test coverage for  [dploy (v1.2.0)](https://github.com/LeanMeanFightingMachine/dploy)  [![npm package](https://img.shields.io/npm/v/npmtest-dploy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dploy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dploy.svg)](https://travis-ci.org/npmtest/node-npmtest-dploy)
+
 #### Command line tool to deploy websites using FTP/SFTP and git.
 
 [![NPM](https://nodei.co/npm/dploy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dploy)
